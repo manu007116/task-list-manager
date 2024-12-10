@@ -1,0 +1,7 @@
+task-list-manager/
+├── index.html       # Main HTML file
+├── styles.css       # Custom CSS file
+├── app.js           # JavaScript logic
+├── README.md        # Project documentation
+├── lib/             # Tabulator.js and CSS library files
+└── assets/          # Optional assets like images/icons
